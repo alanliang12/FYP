@@ -1,0 +1,48 @@
+/*
+
+this is a test
+*/
+
+class test{
+
+private List<String> myList = new ArrayList<String>();
+public String test(){
+int [] anArray;
+String a = "hi";
+myList.add("hi");
+return a;
+
+}
+/*
+	// another test
+
+    private String check = "hi";
+	public void test(){
+
+	int a = 0;
+	}
+
+    public String test3(){
+
+
+    String t = "hi";
+
+    return t;
+
+    }
+	public void test2(){
+
+	if(true){
+	int b = 1;
+	}else{
+	while(true){
+
+	String alpha = "testerString";
+
+	    }
+	}
+
+
+	}
+	*/
+}

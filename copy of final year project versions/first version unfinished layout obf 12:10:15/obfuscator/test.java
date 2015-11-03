@@ -1,0 +1,1 @@
+class QWrChgB { private List < String > UfPTwEnBYmN = new ArrayList < String > ( ) ; public String QWrChgB ( ) { int [ ] vKaHQTZjXM ; String QpJtIL = "hi" ; UfPTwEnBYmN . nIgVyo ( "hi" ) ; return QpJtIL ; } } 

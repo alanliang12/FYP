@@ -1,0 +1,34 @@
+/*
+
+this is a test
+*/
+
+import java.util.*;
+
+class testClass{
+
+
+private List<String> myList;
+
+private ArrayList[][] l = new ArrayList[10][10];
+
+testClass(){}
+
+public String testerMethod(String fucker){
+
+Socket s = new Socket();
+list = new ArrayList<String>();
+int [] anArray;
+String a = "hi";
+
+if(a instanceof String){
+    System.out.println(a);
+    }
+
+
+myList.add("hi");
+testerMethod("fucker");
+return a;
+
+}
+}
